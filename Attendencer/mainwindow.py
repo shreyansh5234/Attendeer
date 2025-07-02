@@ -1,6 +1,3 @@
-# Coded And Modified By Bhupendra Singh Chauhan
-# Last Updated in May 2022
-
 import sys
 from PyQt5.uic import loadUi
 from PyQt5 import QtWidgets
