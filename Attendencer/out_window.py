@@ -1,6 +1,3 @@
-# Created And edited by Bhupendra Singh Chauhan
-# Last Edited in May 2022
-#
 from PyQt5.QtGui import QImage, QPixmap
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import pyqtSlot, QTimer, QDate, Qt
